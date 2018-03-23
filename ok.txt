@@ -1,0 +1,1 @@
+App\Model\user\post::find(3)->tags
